@@ -1,0 +1,11 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["infringementapi", "infringementweb"],
+    "directoryPath": "../",
+    "gatewayType": "zuul",
+    "monitoring": "no",
+    "consoleOptions": [],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "NDM3MDViNWFlNDJjMWEzMTc4NTNmODgzODU5Y2QwZGRlOTVlOWM3YzhiYzAyYzI1MmFiOTcyYjZhZTRmNDllYjMyZWMxODBhYjU5M2E5MmM2YmY2ZjE0Y2U1NjYxZTBhYTYwZg=="
+  }
+}
